@@ -4,12 +4,14 @@ com\internship\tool\repository\FileRepository.class
 com\internship\tool\config\SecurityConfig.class
 com\internship\tool\service\ComplianceService.class
 com\internship\tool\config\JwtAuthFilter.class
+com\internship\tool\service\AuditService.class
 com\internship\tool\ToolApplication.class
 com\internship\tool\entity\User.class
 com\internship\tool\scheduler\ComplianceScheduler.class
 com\internship\tool\controller\TestController.class
 com\internship\tool\repository\ComplianceRepository.class
 com\internship\tool\service\EmailService.class
+com\internship\tool\config\OpenApiConfig.class
 com\internship\tool\service\FileService.class
 com\internship\tool\entity\Compliance.class
 com\internship\tool\config\RedisConfig.class
