@@ -132,3 +132,13 @@ Note: Dockerfile included but Docker not executed locally.
 ### Conclusion
 All endpoints are functioning correctly.
 System is stable, reliable, and demo-ready.
+
+## Day 17 — Backup Deck
+
+Captured screenshots of:
+- Normal responses
+- Cached responses
+- Multiple queries
+- “Not found” cases
+
+Used as backup for demo in case API fails.
