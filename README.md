@@ -135,10 +135,12 @@ System is stable, reliable, and demo-ready.
 
 ## Day 17 — Backup Deck
 
-Captured screenshots of:
-- Normal responses
-- Cached responses
-- Multiple queries
-- “Not found” cases
+Screenshots captured during dry run to ensure demo readiness in case of API failure.
 
-Used as backup for demo in case API fails.
+Included:
+- Normal response output
+- Cached response verification (cached = true)
+- Multiple query responses
+- “Not found in context” scenario
+
+All screenshots are stored in the `screenshots/` folder.
