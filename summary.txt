@@ -1,0 +1,28 @@
+AI Compliance Service — Summary
+
+GitHub:
+https://github.com/Vikas4AD22CS123/compliance-obligation-register
+
+Endpoints:
+1. /query → Ask questions
+2. /generate-report → Generate report
+3. /job-status → Check job
+4. /health → Health check
+5. /metrics → Performance
+6. /cache → Cache info
+
+Tech Stack:
+- Python (Flask)
+- ChromaDB
+- Groq API (llama3-8b)
+- Redis
+- Docker
+
+Features:
+- AI answers using documents
+- Async processing
+- Caching
+- Fallback system
+
+Status:
+Project is complete and demo ready
