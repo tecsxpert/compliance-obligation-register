@@ -1,0 +1,17 @@
+AI Talking Points
+
+Groq:
+Groq is a fast AI inference platform used to run large language models.
+It helps generate answers quickly and efficiently for user queries.
+
+RAG (Retrieval-Augmented Generation):
+RAG combines stored documents with AI to give accurate answers.
+It first retrieves relevant data, then the AI generates a response based on it.
+
+ChromaDB:
+ChromaDB is a vector database used to store and search documents.
+It helps find the most relevant information for a given query.
+
+Prompt Engineering:
+Prompt engineering means designing inputs to get better AI responses.
+Good prompts improve accuracy, clarity, and reliability of answers.
