@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from flask import Blueprint, request, jsonify
 from services.groq_client import GroqClient
 
@@ -32,3 +33,7 @@ def categorise():
     ])
 
     return jsonify({"result": response})
+=======
+from flask import Blueprint
+categorise_bp = Blueprint('categorise', __name__)
+>>>>>>> upstream/main

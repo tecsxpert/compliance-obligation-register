@@ -1,3 +1,97 @@
+<<<<<<< HEAD
 .env
 __pycache__/
 *.pyc
+=======
+# =========================
+
+# Maven / Build Files
+
+# =========================
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Ignore packaged files
+
+*.jar
+*.war
+*.ear
+
+# =========================
+
+# Logs
+
+# =========================
+
+logs/
+*.log
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# IDE Files
+
+# =========================
+
+# IntelliJ IDEA
+
+.idea/
+*.iml
+
+# Eclipse
+
+.project
+.classpath
+.settings/
+
+# VS Code
+
+.vscode/
+
+# =========================
+
+# Java Compiled Files
+
+# =========================
+
+*.class
+
+# =========================
+
+# Temporary Files
+
+# =========================
+
+*.tmp
+*.swp
+*~
+
+uploads/
+
+# =========================
+
+# Environment / Secrets
+
+# =========================
+
+.env
+
+# =========================
+
+# Node (if frontend exists)
+
+# =========================
+
+node_modules/
+dist/
+build/
+>>>>>>> upstream/main

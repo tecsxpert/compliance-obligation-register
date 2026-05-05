@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from flask import Blueprint, request, jsonify
 from services.chroma_client import ChromaClient
 from services.groq_client import GroqClient
@@ -86,3 +87,7 @@ Question:
     set_cache(cache_key, response)
 
     return jsonify(response)
+=======
+from flask import Blueprint
+query_bp = Blueprint('query', __name__)
+>>>>>>> upstream/main
